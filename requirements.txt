@@ -8,3 +8,4 @@ daal4py
 scikit-learn
 flask
 keras
+tensorrt
