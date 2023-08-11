@@ -7,3 +7,4 @@ pandas
 daal4py
 scikit-learn
 flask
+keras
