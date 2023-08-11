@@ -59,6 +59,7 @@ from tensorflow.keras.applications import resnet as rt
 from PIL import Image
 from keras.models import load_model
 from tensorflow.keras.utils import img_to_array
+from keras.models import load_model
 
 # Load the saved model
 model = load_model('ModelWeights.h5')
